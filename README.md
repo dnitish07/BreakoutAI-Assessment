@@ -1,26 +1,16 @@
 Telegram AI-Powered Bot
+
 Loom Video Presentation: https://www.loom.com/share/b822b28be83c4de1ba2673f3c22ab9e5?sid=26e46a5c-ea50-411c-a541-fde0bc94a9a2
 
 This Telegram bot is a powerful AI-driven assistant built using Google Gemini AI, MongoDB, and Python. It offers a wide range of features, including AI-generated responses, image/file analysis, web search capabilities, user analytics, and more. Designed to enhance user interaction, this bot leverages cutting-edge AI tools to deliver a seamless experience.
 
 Key Features
 1. User Registration
-Stores user details securely in MongoDB for personalized interactions.
-
 2. AI Chat
-Provides intelligent responses to user queries using the Google Gemini API.
-
 3. Image/File Analysis
-Processes uploaded images and documents, generating detailed descriptions and insights.
-
 4. Web Search
-Enables users to perform AI-powered web searches directly within the bot.
-
 5. Sentiment Analysis
-Analyzes the sentiment of user messages to better understand user intent and emotions.
-
 6. User Analytics & Dashboard
-Offers detailed insights into user interactions, including usage patterns and engagement metrics.
 
 Features a dashboard generated using Matplotlib and Seaborn for visual representation of data.
 
